@@ -18,6 +18,6 @@ The group members are:
 
 The link for the report is https://docs.google.com/document/d/11uIwKLvAE-sWZdEv0HHAitRgxlu5BRhz3pjPgNMCYfU/edit?usp=sharing
 
-The drive link is https://drive.google.com/drive/folders/1x6eyREOcoRwUbrz6OHr3UA3GB4C1z_uB?usp=drive_link
+The drive link for datasets is https://drive.google.com/drive/folders/1x6eyREOcoRwUbrz6OHr3UA3GB4C1z_uB?usp=drive_link
 
 The link to the GithUb repository is https://github.com/salmanfaris2048/Assignment_2/tree/main
