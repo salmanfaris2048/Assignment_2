@@ -20,4 +20,4 @@ The link for the report is https://docs.google.com/document/d/11uIwKLvAE-sWZdEv0
 
 The drive link for datasets is https://drive.google.com/drive/folders/1x6eyREOcoRwUbrz6OHr3UA3GB4C1z_uB?usp=drive_link
 
-The link to the GithUb repository is https://github.com/salmanfaris2048/Assignment_2/tree/main
+The link to the Github repository is https://github.com/salmanfaris2048/Assignment_2/tree/main
